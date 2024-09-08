@@ -1,0 +1,13 @@
+---
+title: "Patter Seperability Visual Feedback To Improve Pattern Recogntion Decoding Performance"
+collection: publications
+category: conferences
+permalink: /publication/MEC24_paper_52
+excerpt: 'MEC is a triennial symposium of special interest to those who work in the fields of upper limb prosthetics and myoelectric control (including upper and lower limb). As in previous years, it was hosted by the Institute of Biomedical Engineering, a research institute recognized worldwide for its pioneering work in myoelectric controls. This paper presents our findings demonstrating significant improvements in subjects utilizing 3D feedback for pattern recognition compared to those using traditional training methods. These improvements are evident across key metrics such as completion rate, overshoot per trial, efficiency, and throughput. Furthermore, we conducted retention experiments 30 days after the final trial, providing initial insights into the long-term effectiveness of 3D feedback training. To further assess the acceptability of this approach, we plan to collect additional metrics, including the number of recalibrations and training time required during the initial training phase. Amputee experiments are also planned. These additional findings will be published in an extended journal paper. '
+date: 2024-08-15
+venue: 'Myoelectric Control Symposium'
+paperurl: 'https://conferences.lib.unb.ca/index.php/mec/article/view/2515'
+citation: 'Levay, G. M., Yang, R., Hunt, C. L., Hodgson, M. C., Kaliki, R. R., & Thakor, N. V. (2024). PATTERN SEPARABILITY VISUAL FEEDBACK TO IMPROVE PATTERN RECOGNITION DECODING PERFORMANCE. Myoelectric Controls Symposium . https://doi.org/10.57922/mec.2515'
+---
+
+State-of-the-art myoelectric upper limb prostheses control often utilize pattern recognition (PR) systems that translate electromyograph (EMG) activity to a desired movement. As possible prosthesis movements increase, users have difficulty generating sufficiently separable EMG signals that reliably operate all possible degrees of freedom. Current training regimens attempt to increase the separability of a user’s EMG signals through trial-and-error, where a therapist prompts a user to generate EMG signals and provides advice based on the strength and channel distribution of the EMG. In this work, we present a novel visual feedback interface that allows users to observe how their EMG signals affect PR output directly.
