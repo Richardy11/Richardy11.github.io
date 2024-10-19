@@ -6,8 +6,8 @@
 
 main:
 
-  - title: "Research Projects"
-    url: /teaching/ 
+  # - title: "Research Projects"
+  #  url: /teaching/ 
 
   #- title: "talks"
   #  url: /talks/    
@@ -24,5 +24,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
