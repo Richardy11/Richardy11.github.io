@@ -6,10 +6,5 @@ collection: portfolio
 
 Overview
 ======
-To achieve automation for neuromodulation improvement assessment, recorded Electromyography (EMG) signals from all respiratory-related muscles are processed through two main stages: **1) Preprocess**, which involves filtering out noise and formatting the EMG data correctly, and **2) Evaluation**, where key parameters are identified and extracted from the EMG signals to compare pre-neuromodulation and post-neuromodulation states in patients with spinal cord injuries, as well as against a healthy control group.
 
-![Reviewer System](/images/Pipeline_Design.png)
-
-Preprocess
-======
 
