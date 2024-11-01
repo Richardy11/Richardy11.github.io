@@ -1,48 +1,43 @@
 ---
 title: "3D Visual Feedback System for Neuroprosthetics Control"
-excerpt: "This project improves myoelectric prosthesis control through a novel 3D visual feedback system called ***the Reviewer***, which allows users to visualize their EMG signals in real-time. This system helps users understand how their muscle activity influences the machine learning algorithms underlying control. By providing **intuitive visual feedback**, it mitigates challenges such as steep learning curves and misclassifications, enabling users to produce clearer, more consistent signals and ultimately enhancing the usability of neuroprosthetics. <br/><img src='/images/3D_System.png'>"
+excerpt: "This project introduces ***the Reviewer***, a novel 3D visual feedback system that enhances myoelectric prosthesis control by allowing users to visualize their EMG signals in real-time. This system **clarifies the relationship between muscle activity and the machine learning algorithms behind prosthetic control**. With intuitive feedback, it tackles challenges like learning curves and misclassifications, helping users produce clearer, more consistent signals for improved neuroprosthetic usability. <br/><img src='/images/3D_System.png'>"
 collection: portfolio
 ---
 
 Overview
 ======
-State-of-the-art upper limb myoelectric prostheses often use pattern recognition (PR) control systems that translate electromyography (EMG) signals into desired movements. As the number of possible prosthesis movements increases, users have difficulty generating sufficiently separable EMG signals that reliably operate all possible degrees of freedom. Current training regimens attempt to increase the separability of a user’s EMG signals through trial and error, wherein a practitioner prompts a user to generate EMG signals and provides advice based on the strength and channel distribution of the EMG. We introduce a novel visual feedback interface, ***the Reviewer***, which projects incoming EMG data into the classification space of the underlying decoder, **enabling intuitive visualization of the pattern recognition (PR) algorithm’s behavior**.
+Upper limb myoelectric prostheses often use pattern recognition (PR) systems that translate electromyography (EMG) signals into specific movements. However, as the number of prosthesis movements grows, users face challenges in generating distinct EMG signals to operate all degrees of freedom. Existing training methods rely on trial and error, where a practitioner guides the user based on EMG strength and channel distribution. We present ***the Reviewer***, a visual feedback interface that projects EMG data into the decoder's classification space, **providing intuitive insight into the PR algorithm’s behavior**.
 
-![Illustration of motor based training](/images/3D_System.png)
+![Motor-based training overview](/images/3D_System.png)
 
 Design
 ======
-Motor-based training for PR-based prostheses involves calibration and exploration. During calibration, users perform muscle contractions to record EMG signals, which are used to train motion classifier algorithms. In exploration, users assess control using **visual feedback training programs**, like a virtual arm, and can improve control by adjusting muscle activity or recalibrating with new EMG data.
+Motor-based training in PR-based prostheses includes calibration and exploration phases. In calibration, users perform muscle contractions to record EMG signals, training the motion classifier. In exploration, users receive visual feedback, traditionally via virtual arms, to assess control and refine muscle activity.
 
 ![Illustration of motor based training](/images/Demo.png)
 
-Traditional training methods are **limited by their focus on only providing users with feedback on control output**. This reveals a gap in current training paradigms, as no existing program offers real-time feedback to show users how the underlying PR algorithm interprets EMG data in its decision space.
+Traditional methods are **limited by feedback solely on control output**, leaving a gap in real-time PR algorithm feedback. *The Reviewer* fills this by providing a 3D representation of EMG patterns in decision space, enabling users to visually understand classification accuracy.
 
-![Reviewer VS Virtual Arm](/images/3DvsVirtual_4.png)
+![Reviewer vs. Virtual Arm](/images/3DvsVirtual_4.png)
 
-Above is the representation of visualization feedback during gesture performance:
-**(A-C) *The Reviewer***: Using the PR algorithm, EMG patterns are clustered based on features extracted during calibration. The resting position is marked as the origin (0, 0, 0). Guided by patient data, the system maximizes interclass variance and minimizes within-class variance. During exploration, users see a white cursor representing their gesture’s position in feature space, which they can rotate for a comprehensive view.
-**(D-F) Virtual Arm Traditional Training Method:** Displays real-time arm movements based on gesture classification by the PR system.
+- **The Reviewer (A-C):** Clusters EMG patterns based on calibration, marking rest at the origin. Users see a white cursor representing gesture positions in feature space, offering a 3D view of their movements.
+- **Traditional Virtual Arm (D-F):** Displays real-time arm movements based on the PR system’s classifications.
 
-![Reviewer System](/images/3D_System_2.jpg)
+![Reviewer System in Action](/images/3D_System_2.png)
 
-*The Reviewer* aims to enhance control performance in myoelectric PR-based prostheses by **providing users a digestible understanding of the relationship between their input EMG signals and the prosthesis output by projecting them into a 3D space**, enabling improvements in control precision and efficiency.
+*The Reviewer* enhances PR-based prosthesis control by **enabling users to grasp the link between EMG signals and prosthetic output**, improving both precision and efficiency.
 
 Results
 ======
-In a 10-session study involving 12 participants, users utilizing the *Reviewer* significantly outperformed those using traditional virtual arm feedback training methods. Key improvements included:
- **1) Functionality:** Increased completion rates and improvements in secondary metrics during Fitts’ Law Test assessments for PR-based control.
- **2) Control Scalability:** Attenuated decrease in completion rates when new movements were introduced.
- **3) User Engagement:** Higher engagement and motivation during training, indicated by an increased number of recalibrations before the most complex control assessments. For a full report, please refer to the published conference paper: <a href="/publication/MEC24_paper_52" target="_blank">Pattern Separability Visual Feedback To Improve Pattern Recognition Decoding Performance</a>
+In a 10-session study with 12 participants, *the Reviewer* significantly outperformed traditional virtual arm feedback. Key benefits include:
+1) **Improved Functionality:** Higher task completion rates and metric improvements in the Fitts’ Law Test.
+2) **Scalable Control:** Sustained completion rates as new movements were introduced.
+3) **Higher Engagement:** Users recalibrated more frequently for complex assessments, indicating greater motivation and engagement.
+
+For the full report, see the published paper: [Pattern Separability Visual Feedback To Improve Pattern Recognition Decoding Performance](/publication/MEC24_paper_52).
 
 Impact
 ======
- This proposed visualization paradigm marks a significant advancement in making PR-controlled prostheses more accessible and user-friendly, fostering broader adoption and enhanced functional integration. The effectiveness of this system has been showcased at **the American Academy of Orthotists and Prosthetists (AAOP)** and **Myoelectric Control Symposium (MEC)**, the premier conference for myoelectric control. Additionally, the system is **undergoing commercialization by Infinite Biomedical Technologies**, aiming to make a broader impact on the amputee community.
+*The Reviewer* represents a breakthrough in PR-controlled prostheses, enhancing accessibility and usability, showcased at **AAOP** and **MEC** conferences. Currently, it is undergoing commercialization by **Infinite Biomedical Technologies**, aiming to benefit the amputee community broadly.
 
-Responsibilities
-======
-Richard Yang is with the Electrical Engineering and Neuroscience Department at Johns Hopkins University. Richard co-developed the 3D visual system's code, designed and conducted all clinical trials, analyzed the collected data, and wrote the manuscript.
-
-Gyorgy M. Lévay, Christopher L. Hunt, Megan C. Hodgson, Damini Agarwal, Daniel Czeiner, and Rahul R. Kaliki are with Infinite Biomedical Technologies (IBT). IBT developed the pattern recognition code that this system relies on, for which they hold a patent, and co-developed the code for the 3D visual system.
-
-Nitish V. Thakor is a co-founder of IBT; his affiliation and potential conflict of interest have been disclosed to the relevant institutions, with conflict management overseen by JHU.
+![Showcase](/images/showcase.png)
