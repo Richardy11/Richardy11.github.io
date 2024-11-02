@@ -57,10 +57,9 @@ Publications
 
 Skills
 ======
-* Coding: Matlab, Python, C, C++
+* Coding: Matlab, Python, C, C++，LDA, SVM, K-means, CNN
 * Electrical Engineering: PCB Design, KiCad, Arduino, Microprocessors, Signal Systems, Microfabrication
 * Biology: EMG/EEG Recording and Analyzing, Motor Unit Spike Sorting, Amputee Clinical Trials, Rat Handling, RPNI/VDMT surgeries
-* Machine Learning: LDA, SVM, K-means, CNN
 
 Relevant Coursework
 ======
