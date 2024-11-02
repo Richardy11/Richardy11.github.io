@@ -28,7 +28,7 @@ In each cycle, the start time, end time, and activation amplitude vary across mu
 
 Results
 ======
-This example compares the highest EMG amplitude during a breathing cycle across SCI patients before and after neuromodulation, and in healthy controls. Neuromodulation improved muscle activity in SCI patients, approaching healthy levels in three key muscles.
+This example compares the highest EMG amplitude during several breathing cycle across SCI patients before and after neuromodulation, and in healthy controls. Neuromodulation improved muscle activity in SCI patients, approaching healthy levels in three key muscles.
 
 ![results](/images/results.png)
 
