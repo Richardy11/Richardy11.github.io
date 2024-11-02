@@ -25,7 +25,7 @@ Traditional methods are **limited by feedback solely on control output**, leavin
 
 ![Reviewer System in Action](/images/3D_System_2.png)
 
-*The Reviewer* enhances PR-based prosthesis control by **enabling users to grasp the link between EMG signals and prosthetic output**, improving both precision and efficiency.
+*The Reviewer* enhances PR-based prosthesis control by **enabling users to grasp the link between EMG signals and prosthetic output**, improving both precision and efficiency. A [video demonstration](https://youtube.com/playlist?list=PL9xm11JA4CqgeT2lceSz3rczH2rSDDvDC&si=0_WO4YIB3C59vh_N) is available, illustrating the system's design and experimental setup.
 
 Results
 ======
