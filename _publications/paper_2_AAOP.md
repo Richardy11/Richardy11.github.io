@@ -1,7 +1,7 @@
 ---
 title: "Projection-based visual feedback of classification outputs improves efficacy of prosthesis training for myoelectric pattern recognition"
 collection: publications
-category: conferences
+category: conferences 
 permalink: /publication/AAOP23
 excerpt: 'The AAOP Annual Meeting and Scientific Symposium is the preeminent yearly forum for O&P professionals to gather with colleagues to explore and discuss the current and future prospects for the O&P profession. This paper presents preliminary findings demonstrating the potential of 3D visual feedback for enhancing pattern recognition in prosthetic control. Our initial studies reveal significant improvements in completion rates compared to traditional training methods. Future research will conduct more extensive experiments, comparing a comprehensive range of metrics across both our proposed solution and existing methods of prosthesis control.'
 date: 2023-3-1
