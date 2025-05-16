@@ -41,3 +41,16 @@ Impact
 *The Reviewer* represents a breakthrough in PR-controlled prostheses, enhancing accessibility and usability, showcased at **AAOP** and **MEC** conferences. Currently, it is undergoing commercialization by **Infinite Biomedical Technologies**, aiming to benefit the amputee community broadly.
 
 ![Showcase](/images/showcase.png)
+
+Toward a two-layer co-adaptive PR framework
+======
+
+**Conventional PR (A)** controllers use fixed decoders; once trained, they cannot adjust online. **Adaptive Algorithms (B)** update the classifier automatically, but still leave the wearer outside the loop, so persistent errors remain hard to correct.
+
+Our results motivate a **Human-in-the-loop Scheme (C)**: real-time visualisation lets users see the decision space and refine both their EMG patterns and the classifier iteratively. This boosts performance, yet heavy manual recalibration becomes tiring as tasks grow more complex.
+
+**Future systems (D)** should therefore split adaptation into two layers:
+1)	**Fast, autonomous self-adaptation**: The decoder makes continuous micro-adjustments from streaming data.
+2)	**Occasional, user-driven oversight**: the wearer intervenes only when larger shifts are needed. This dual strategy promises quicker, more accurate adaptation without overloading the user as control complexity scales.
+
+![Showcase](/images/rev.png)
