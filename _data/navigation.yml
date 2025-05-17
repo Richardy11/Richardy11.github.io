@@ -6,11 +6,7 @@
 
 main:
 
-  # - title: "Research Projects"
-  #  url: /teaching/ 
-
-  # - title: "talks"
-  #  url: /talks/    
+  
 
   - title: "Portfolio"
     url: /portfolio/
@@ -20,6 +16,12 @@ main:
         
   # - title: "Blog Posts"
   #  url: /year-archive/
+
+  # - title: "Fun Stuff"
+  #  url: /talks/
+
+  - title: "Fun Stuff"
+    url: /teaching/     
     
   - title: "CV"
     url: /cv/
