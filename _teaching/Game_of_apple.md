@@ -59,7 +59,7 @@ Exhausted and bruised, we pause, silently surveying the aftermath of our chaotic
 
 Staring at the empty scale, we whisper among ourselves: “We can't win if we keep fighting individually. Maybe we should... **team up?**” As our opponent busies himself sorting his apples, we secretly gather, arming ourselves with sticks and exchanging meaningful glances. The moment he turns his back, we're ready to strike!
 
-But just as we lunge forward, he urgently shouts, “Guys, stop!” Raising his head to meet our eyes, he focuses directly on me: “You only have one apple left, don't you? Listen, let’s return to the scale. If I win three apples, I'll give you one. With just a single apple, you can't even afford to keep playing. We can either continue this endless chaos or play fairly together at the scale.”
+But just as we lunge forward, he urgently shouts, “Guys, stop!” Raising his head to meet our eyes, he focuses directly on me: “You only have one apple left, don't you? Listen, let’s return to the scale. If I win three apples, I'll give you one. With just a single apple, you can't even afford to keep playing. We can either continue this endless chaos or play **'fairly'** together at the scale.”
 
 I hesitate—I don’t really want violence; **I’m just afraid of losing my place in the game**. Using this **“three-for-one”** strategy, he gradually persuades my comrades to join his side, one by one. Ultimately, we find ourselves back at the scale, forced to acknowledge that no matter how fiercely we fight, we cannot succeed alone.
 
