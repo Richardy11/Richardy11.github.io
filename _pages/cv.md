@@ -79,5 +79,4 @@ Research Interests
 Academic Reference
 ======
 * Nitish V. Thakor, PhD (Email: nthakor@bme.jhu.edu)
-* Ruyi Huang, PhD (Email: ruyihuang@mednet.ucla.edu)
 * Jason Trageser, PhD (Email: jtrages3@jhu.edu)
