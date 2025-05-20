@@ -3,7 +3,7 @@ title: "Looking Back: Some thoughts on China's Education History (Work in Progre
 collection: teaching
 type: "Opinion"
 permalink: /China_education
-venue: "Johns Hopkins University"
+venue: "CLass Paper"
 date: 2025-05-19
 location: "Baltimore, USA"
 ---
