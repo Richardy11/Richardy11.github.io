@@ -1,9 +1,9 @@
 ---
-title: "Looking Back: Some thoughts on China's Education History (Work in Progress)"
+title: "Looking Back: Some Thoughts on China's Education History (Work in Progress)"
 collection: teaching
 type: "Opinion"
 permalink: /China_education
-venue: "CLass Paper"
+venue: "Class Paper"
 date: 2025-05-19
 location: "Baltimore, USA"
 ---
