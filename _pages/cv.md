@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education (As of Nov 2024)
 ======
 * Bachelor of Science in Electrical Engineering, Johns Hopkins University, Aug 2021 - June 2025
 * Bachelor of Science in Neuroscience, Johns Hopkins University, Aug 2021 - June 2025
