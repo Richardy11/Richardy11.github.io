@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am enthusiastic about pursuing opportunities in biomedical engineering and bridging the gap between the nervous system and machines. For this purpose, I pursue double majors in **electrical engineering** and **neuroscience** to deepen my understanding of neuronal signal interpretation and its translation to devices. Currently, my research revolves around implantable devices, spike sorting, and neural reinnervation surguries. I also have extensive experience in myoelectric-controlled neuroprosthetics, EMG decoding, and spinal cord injury rehabilitation.
+I am enthusiastic about pursuing opportunities in biomedical engineering and bridging the gap between the nervous system and machines. To acheive this goal, I trained in **electrical engineering** and **neuroscience** to develop a strong foundation in neural signal interpretation and its translation to devices. My current research focuses on implantable neural interfaces, spike sorting, and motor reinnervation surgeries. I also bring extensive experience in myoelectric-controlled neuroprosthetics, EMG decoding, and spinal cord injury rehabilitation.
 
-Neuroengineering has been a long-standing passion, sparked during high school when I volunteered at a rehabilitation center in Beijing. Since then, I have dedicated myself to advancing research in neuroengineering, with the goal of making meaningful contributions to this impactful and exciting field.
+My interest in neuroengineering began in high school while volunteering at a rehabilitation center in Beijing. Since then, I have remained committed to advancing the field, driven by a desire to restore human function and deepen our understanding of biology through technology.
 
 ![Myself](/images/myself.png)
