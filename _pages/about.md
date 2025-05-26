@@ -11,4 +11,4 @@ I am enthusiastic about pursuing opportunities in biomedical engineering and bri
 
 My interest in neuroengineering began in high school while volunteering at a rehabilitation center in Beijing. Since then, I have remained committed to advancing the field, driven by a desire to restore human function and deepen our understanding of biology through technology.
 
-![Myself](/images/myself.png)
+![Progress](/images/progress.png)
