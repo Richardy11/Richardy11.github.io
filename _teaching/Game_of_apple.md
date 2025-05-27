@@ -74,7 +74,7 @@ While we remain engrossed in our endless apple battles around the scale, I glanc
 
 Many seeds he plants fail to sprout; countless seedlings wither and die halfway. But eventually, a single seedling emerges, growing steadily into a **magnificent tree**, heavy with hundreds of apples. People gather beneath its branches, marveling at its abundant fruits.
 
- **<span style="color:orange;">Sword in hand</span>**, he proclaims, while the keepers of the scale look on in fear: “There’s no need to fight over apples anymore! I need helpers to water this tree-when watered, it thrives. Before, you fought bitterly just to win **one apple**; now, simply watering this tree once will reward you with **two**. Any takers?”
+ **<span style="color:orange;">Sword in hand</span>**, he proclaims: “There’s no need to fight over apples anymore! I need helpers to water this tree-when watered, it thrives. Before, you fought bitterly just to win **one apple**; now, simply watering this tree once will reward you with **two**. Any takers?”
 
 Slowly but surely, the crowd shifted. The scale remains standing, but fewer people gather around it. More and more begin planting and watering trees. **Those who remain obsessed with the scale seem to have forgotten that every apple they ever fought for originally grew on a tree**.
 
