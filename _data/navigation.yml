@@ -20,8 +20,8 @@ main:
   # - title: "Fun Stuff"
   #  url: /talks/
 
-  - title: "Fun Stuff"
-    url: /teaching/     
+  #- title: "Fun Stuff"
+  #  url: /teaching/     
     
   - title: "CV"
     url: /cv/
