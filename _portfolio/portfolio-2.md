@@ -8,6 +8,8 @@ Overview
 ======
 This pipeline automates neuromodulation assessment by processing recorded EMG signals from respiratory muscles through two main stages: **1) Preprocess** — filtering noise and preparing EMG data, and **2) Evaluation** — identifying and extracting key parameters to compare pre- and post-neuromodulation states in SCI patients and healthy controls.
 
+Code: https://github.com/Richardy11/Neuromodulation-Pipeline
+
 ![Pipeline](/images/Pipeline_Design.png)
 
 Preprocess
